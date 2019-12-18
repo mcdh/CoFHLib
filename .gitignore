@@ -184,3 +184,7 @@ MFR-Forestry
 nbproject
 *.iml
 *.eml
+*.ipr
+*.iws
+
+TEMP/
